@@ -6,9 +6,9 @@ The manuscript evidence map is frozen through **3 August 2026** and contains **4
 
 ---
 
-## 8 August 2026 — Frozen Corpus Publication
+## 8 August 2026 — Frozen Corpus Release
 
-The frozen manuscript evidence map has been published in both **application-domain** and **machine-readable** form.
+The frozen manuscript evidence map has been made publicly available in both **application-domain** and **machine-readable** form.
 
 All **42 primary study families** are now represented across the five application domains used in the review:
 
