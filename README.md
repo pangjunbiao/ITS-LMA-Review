@@ -65,7 +65,7 @@ The review evaluates studies using several independent dimensions:
 
 These dimensions are not combined into a single study-quality score or ranking.
 
-Detailed definitions and coding rules will be provided in the repository taxonomy documentation.
+Detailed definitions and coding rules are provided in [`taxonomy.md`](taxonomy.md).
 
 ---
 
@@ -112,7 +112,7 @@ Suggestions for newly published studies, archival publication updates, corrected
 
 Proposed additions will be checked against the review's eligibility criteria and study-family rules before inclusion in the curated evidence map.
 
-Detailed contribution instructions will be added in [`CONTRIBUTING.md`](CONTRIBUTING.md).
+Detailed contribution instructions are available in [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 ---
 
@@ -120,7 +120,7 @@ Detailed contribution instructions will be added in [`CONTRIBUTING.md`](CONTRIBU
 
 This is a living companion repository for the review.
 
-We check the literature and update the repository **at least once every two months while the survey is under review**. New studies, publication-version updates, and other relevant changes are recorded in [`UPDATE_LOG.md`](UPDATE_LOG.md).
+We check the literature and update the repository **at least once every two months until the survey is accepted**. New studies, publication-version updates, and other relevant changes are recorded in [`UPDATE_LOG.md`](UPDATE_LOG.md).
 
 The manuscript itself remains tied to its stated evidence cutoff; later additions to this repository are tracked separately.
 
