@@ -15,7 +15,7 @@ The review provides a structured evidence map of current ITS applications, syste
 - **Primary study families in the frozen manuscript corpus:** 42
 - **Mapped sources in the review:** 91
 - **Primary analysis period:** January 2023 – 3 August 2026
-- **Repository status:** Living companion resource
+- **Repository status:** Frozen manuscript corpus published; living updates enabled
 - **Update cadence:** At least once every two months during the manuscript peer-review period
 
 > **Important:** The quantitative results reported in the manuscript are based on the frozen evidence corpus through **3 August 2026**. Studies identified after this cutoff are maintained separately as post-cutoff updates and do not retroactively alter the manuscript results unless a formally documented review update is performed.
@@ -41,15 +41,15 @@ The repository distinguishes **model-level**, **system-level**, and **hybrid mul
 
 ## Application Domains
 
-The reviewed literature is organised into the same five application domains used in the manuscript:
+The frozen manuscript corpus contains **42 primary study families** across five mutually exclusive application domains:
 
-1. [**Prediction and Network Understanding**](papers/prediction-network-understanding.md)
-2. [**Autonomous Driving and Vehicle Interaction**](papers/autonomous-driving-vehicle-interaction.md)
-3. [**Signal Control and Public Operations**](papers/signal-control-public-operations.md)
-4. [**Traffic Safety and Incident Management**](papers/traffic-safety-incident-management.md)
-5. [**Planning, Simulation, and Human–Machine Collaboration**](papers/planning-simulation-hmc.md)
+1. [**Prediction and Network Understanding**](papers/prediction-network-understanding.md) — 1 family
+2. [**Autonomous Driving and Vehicle Interaction**](papers/autonomous-driving-vehicle-interaction.md) — 17 families
+3. [**Signal Control and Public Operations**](papers/signal-control-public-operations.md) — 4 families
+4. [**Traffic Safety and Incident Management**](papers/traffic-safety-incident-management.md) — 7 families
+5. [**Planning, Simulation, and Human–Machine Collaboration**](papers/planning-simulation-hmc.md) — 13 families
 
-Each category page contains the study families assigned to that domain in the frozen manuscript corpus and links to the corresponding publications and public research artefacts where available.
+Each category page provides the frozen study-family list, C/E/P classifications, publication links, and public code or project links where verified.
 
 ---
 
