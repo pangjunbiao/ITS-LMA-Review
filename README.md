@@ -85,18 +85,18 @@ This separation preserves the reproducibility of the published evidence synthesi
 
 ---
 
-## Planned Repository Contents
+## Repository Contents
 
-The repository will contain:
+The repository currently provides:
 
-- categorised primary study lists;
-- a machine-readable frozen evidence map;
-- the ITS-LMA taxonomy and coding definitions;
-- related surveys;
-- datasets, benchmarks, and simulation resources;
-- post-cutoff literature updates;
-- an update history; and
-- contribution guidelines for suggesting new studies or corrections.
+- [application-domain paper lists](papers/);
+- a machine-readable frozen evidence map *(to be added)*;
+- the [ITS-LMA taxonomy and evidence framework](taxonomy.md);
+- [related surveys](related-surveys.md);
+- [datasets, benchmarks, and simulation resources](resources.md);
+- [post-cutoff literature updates](post-cutoff-updates.md);
+- the [repository update history](UPDATE_LOG.md); and
+- [contribution guidelines](CONTRIBUTING.md).
 
 ---
 
