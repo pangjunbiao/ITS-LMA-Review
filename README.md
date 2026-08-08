@@ -1,11 +1,12 @@
 # Large Multimodal Agents for Intelligent Transportation Systems
 
-### Living Evidence Repository for  
+### Living Evidence Repository for
+
 **“Large Multimodal Agents for Intelligent Transportation Systems: Architectures, Evidence, and Deployment Challenges”**
 
 This repository is the public companion resource for our review of foundation-model-centred multimodal systems and agents in intelligent transportation systems (ITS).
 
-The review provides a structured evidence map of current ITS applications, system architectures, multimodality, functional capability, validation settings, methodological evidence, and operational authority. This repository extends the review as a **living literature and evidence resource** that will be periodically updated as new relevant studies become available.
+The review provides a structured evidence map of ITS applications, system architectures, multimodality, functional capability, validation settings, methodological evidence, and operational authority. This repository extends the review as a **living literature and evidence resource** that will be periodically updated as new relevant studies become available.
 
 ---
 
@@ -15,10 +16,10 @@ The review provides a structured evidence map of current ITS applications, syste
 - **Primary study families in the frozen manuscript corpus:** 42
 - **Mapped sources in the review:** 91
 - **Primary analysis period:** January 2023 – 3 August 2026
-- **Repository status:** Frozen manuscript corpus published; living updates enabled
-- **Update cadence:** At least once every two months during the manuscript peer-review period
+- **Repository status:** Frozen manuscript corpus available; living updates enabled
+- **Update cadence:** At least once every two months until the survey is accepted
 
-> **Important:** The quantitative results reported in the manuscript are based on the frozen evidence corpus through **3 August 2026**. Studies identified after this cutoff are maintained separately as post-cutoff updates and do not retroactively alter the manuscript results unless a formally documented review update is performed.
+> **Important:** The quantitative results reported in the manuscript are based on the frozen evidence corpus through **3 August 2026**. Studies identified after this cutoff are maintained separately as post-cutoff updates and do not retroactively alter the manuscript results unless a formally documented manuscript-level update is performed.
 
 ---
 
@@ -81,7 +82,7 @@ The frozen evidence map corresponds to the literature included in the manuscript
 
 Relevant studies identified after the manuscript cutoff are recorded separately. They are screened using the same conceptual inclusion boundary and study-family principles but are not automatically incorporated into the frozen manuscript statistics.
 
-This separation preserves the reproducibility of the published evidence synthesis while allowing the resource to remain current.
+This separation preserves the reproducibility of the **frozen manuscript evidence synthesis** while allowing the repository to remain current.
 
 ---
 
@@ -108,7 +109,7 @@ The repository currently provides:
 
 ## Contributing
 
-Suggestions for newly published studies, archival publication updates, corrected links, or other relevant resources will be welcome through GitHub issues or pull requests.
+Suggestions for newly published studies, archival publication updates, corrected links, or other relevant resources are welcome through GitHub issues or pull requests.
 
 Proposed additions will be checked against the review's eligibility criteria and study-family rules before inclusion in the curated evidence map.
 
@@ -143,7 +144,3 @@ GitHub: [pangjunbiao/ITS-LMA-Review](https://github.com/pangjunbiao/ITS-LMA-Revi
 The C0–C3, E0–E4, and P1–P3 labels reported here follow the definitions used in our review. They reflect our evidence-based reading of the published studies and are not labels assigned by the original authors.
 
 These classifications are intended to support comparison across the literature; they should not be interpreted as safety certifications or overall rankings of individual studies.
-
-## Disclaimer
-
-The capability, validation, proposition, and methodological-concern classifications in this repository are analytical judgments made within the review framework. They are not labels assigned by the original study authors, safety certifications, or rankings of study quality.
