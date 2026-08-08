@@ -90,7 +90,7 @@ This separation preserves the reproducibility of the published evidence synthesi
 The repository currently provides:
 
 - [application-domain paper lists](papers/);
-- a machine-readable frozen evidence map *(to be added)*;
+- the [machine-readable frozen evidence map](data/frozen_evidence_map_2026-08-03.csv);
 - the [ITS-LMA taxonomy and evidence framework](taxonomy.md);
 - [related surveys](related-surveys.md);
 - [datasets, benchmarks, and simulation resources](resources.md);
