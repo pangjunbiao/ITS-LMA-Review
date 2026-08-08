@@ -41,8 +41,6 @@ The repository distinguishes **model-level**, **system-level**, and **hybrid mul
 
 ## Application Domains
 
-## Application Domains
-
 The reviewed literature is organised into the same five application domains used in the manuscript:
 
 1. [**Prediction and Network Understanding**](papers/prediction-network-understanding.md)
