@@ -41,15 +41,17 @@ The repository distinguishes **model-level**, **system-level**, and **hybrid mul
 
 ## Application Domains
 
+## Application Domains
+
 The reviewed literature is organised into the same five application domains used in the manuscript:
 
-1. **Prediction and Network Understanding**
-2. **Autonomous Driving and Vehicle Interaction**
-3. **Signal Control and Public Operations**
-4. **Traffic Safety and Incident Management**
-5. **Planning, Simulation, and Human–Machine Collaboration**
+1. [**Prediction and Network Understanding**](papers/prediction-network-understanding.md)
+2. [**Autonomous Driving and Vehicle Interaction**](papers/autonomous-driving-vehicle-interaction.md)
+3. [**Signal Control and Public Operations**](papers/signal-control-public-operations.md)
+4. [**Traffic Safety and Incident Management**](papers/traffic-safety-incident-management.md)
+5. [**Planning, Simulation, and Human–Machine Collaboration**](papers/planning-simulation-hmc.md)
 
-Category-specific paper lists will provide links to the corresponding publications, project pages, and publicly available code where available.
+Each category page contains the study families assigned to that domain in the frozen manuscript corpus and links to the corresponding publications and public research artefacts where available.
 
 ---
 
